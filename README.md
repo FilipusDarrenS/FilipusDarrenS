@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Darren 👋</h1>
+<p align="center">
+  <img src="assets/banner.png" alt="Darren banner" width="100%" />
+</p>
+
+<h3 align="center">Hi, I'm Darren 👋</h3>
 
 <h3 align="center">Computer Science Student · Software Engineer in training · AI/ML Enthusiast</h3>
 
