@@ -21,19 +21,21 @@
 
 ---
 
-### 🚀 About Me
+<h3 align="center">🚀 About Me</h3>
 
-- 🎓 7th semester **Computer Science** student at **BINUS University**
-- 🍎 Intern at the **Apple Developer Academy @ BINUS Tangerang**
-- 💻 Exploring both **Software Engineering** and **AI/ML Engineering**
-- 🌱 Always picking up new tools, languages, and ideas
-- 📌 Project highlights coming soon, check my pinned repos below
+<p align="center">
+  🎓 7th semester <b>Computer Science</b> student at <b>BINUS University</b><br/>
+  🍎 Intern at the <b>Apple Developer Academy @ BINUS Tangerang</b><br/>
+  💻 Exploring both <b>Software Engineering</b> and <b>AI/ML Engineering</b><br/>
+  🌱 Always picking up new tools, languages, and ideas<br/>
+  📌 Project highlights coming soon, check my pinned repos below
+</p>
 
 ---
 
-### 💼 Experience
+<h3 align="center">💼 Experience</h3>
 
-**Intern, Apple Developer Academy @ BINUS Tangerang**
+<p align="center"><b>Intern, Apple Developer Academy @ BINUS Tangerang</b></p>
 
 ---
 
@@ -47,18 +49,13 @@
 
 <h3 align="center">🤝 Soft Skills</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">🎤<br/><b>Public Speaking</b></td>
-    <td align="center" width="140">🤝<br/><b>Teamwork</b></td>
-    <td align="center" width="140">🧠<br/><b>Critical Thinking</b></td>
-    <td align="center" width="140">🌱<br/><b>Lifelong Learning</b></td>
-  </tr>
-</table>
+<p align="center">
+  🎤 <b>Public Speaking</b> · 🤝 <b>Teamwork</b> · 🧠 <b>Critical Thinking</b> · 🌱 <b>Lifelong Learning</b>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=FilipusDarrenS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
