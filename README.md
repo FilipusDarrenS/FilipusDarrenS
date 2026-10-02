@@ -33,17 +33,17 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=swift,python,cpp,postgres&theme=dark" alt="Swift, Python, C++, SQL" />
 </p>
 
-<p align="left"><sub>Swift / SwiftUI · Python · C++ · SQL</sub></p>
+<p align="center"><sub>Swift / SwiftUI · Python · C++ · SQL</sub></p>
 
-### 🤝 Soft Skills
+<h3 align="center">🤝 Soft Skills</h3>
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="140">🎤<br/><b>Public Speaking</b></td>
     <td align="center" width="140">🤝<br/><b>Teamwork</b></td>
@@ -51,8 +51,6 @@
     <td align="center" width="140">🌱<br/><b>Lifelong Learning</b></td>
   </tr>
 </table>
-
-<br clear="all" />
 
 ---
 
