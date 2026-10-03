@@ -42,10 +42,10 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,cpp,postgres&theme=dark" alt="Swift, Python, C++, SQL" />
+  <img src="https://skillicons.dev/icons?i=swift,python,c,postgres&theme=dark" alt="Swift, Python, C, SQL" />
 </p>
 
-<p align="center"><sub>Swift / SwiftUI · Python · C++ · SQL</sub></p>
+<p align="center"><sub>Swift / SwiftUI · Python · C · SQL</sub></p>
 
 <h3 align="center">🤝 Soft Skills</h3>
 
