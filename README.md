@@ -42,7 +42,11 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,c,postgres&theme=dark" alt="Swift, Python, C, SQL" />
+  <img src="https://skillicons.dev/icons?i=swift,python,c,mysql&theme=dark" alt="Swift, Python, C, SQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
 </p>
 
 <p align="center"><sub>Swift / SwiftUI · Python · C · SQL</sub></p>
